@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6d26900e7fc6500419b0fc758295a1f8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_OrthographicCamera: {fileID: 3040447676020892041, guid: b23e08a6607d1664889bc022a0aa54c9,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

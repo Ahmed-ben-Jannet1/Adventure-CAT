@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 14af1979f3549ba439b0382393bc9e61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4386525632681185754
+    second: menueee_0
+  - first:
+      213: 5686189619428872373
+    second: menueee_1
+  - first:
+      213: 3969316780035181984
+    second: menueee_2
+  - first:
+      213: -4155913956752852639
+    second: menueee_3
+  - first:
+      213: 3868817104012457784
+    second: menueee_4
+  - first:
+      213: -3120124724389544584
+    second: menueee_5
+  - first:
+      213: -312977748517145446
+    second: menueee_6
+  - first:
+      213: -5955282069454044645
+    second: menueee_7
+  - first:
+      213: -4607204893182956783
+    second: menueee_8
+  - first:
+      213: -6999153956162591704
+    second: menueee_9
+  - first:
+      213: -8313498243369769465
+    second: menueee_10
+  - first:
+      213: -8793376849722285776
+    second: menueee_11
+  - first:
+      213: -2260935984975619130
+    second: menueee_12
+  - first:
+      213: 3890509662204087632
+    second: menueee_13
+  - first:
+      213: 4407900963472983047
+    second: menueee_14
+  - first:
+      213: 2302686887867253868
+    second: menueee_15
+  - first:
+      213: -9084725039375185547
+    second: menueee_16
+  - first:
+      213: 8560122449685625088
+    second: menueee_17
+  - first:
+      213: 726690046319739228
+    second: menueee_18
+  - first:
+      213: -1942494106996540812
+    second: menueee_19
+  - first:
+      213: -302190665984690903
+    second: menueee_20
+  - first:
+      213: -7212994131132002265
+    second: menueee_21
+  - first:
+      213: 7380019239292300341
+    second: menueee_22
+  - first:
+      213: 8915681698834853070
+    second: menueee_23
+  - first:
+      213: -5251361559334891708
+    second: menueee_24
+  - first:
+      213: -5858384782850959789
+    second: menueee_25
+  - first:
+      213: 9115919068737100461
+    second: menueee_26
+  - first:
+      213: -3381076056070721818
+    second: menueee_27
+  - first:
+      213: -786498916076018735
+    second: menueee_28
+  - first:
+      213: -4691731141337783518
+    second: menueee_29
+  - first:
+      213: -7971422966852138799
+    second: menueee_30
+  - first:
+      213: 4593549202940260739
+    second: menueee_31
+  - first:
+      213: 109068046706636679
+    second: menueee_32
+  - first:
+      213: 2165808380568975486
+    second: menueee_33
+  - first:
+      213: -2791709412969421738
+    second: menueee_34
+  - first:
+      213: 1771578326895867791
+    second: menueee_35
+  - first:
+      213: -3348311509787465895
+    second: menueee_36
+  - first:
+      213: -7719890642751205895
+    second: menueee_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: menueee_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 449
+        width: 399
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad19b1672d110ec30800000000000000
+      internalID: 4386525632681185754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_1
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 651
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b05297055769ee40800000000000000
+      internalID: 5686189619428872373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 651
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad8ef2c498d51730800000000000000
+      internalID: 3969316780035181984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_3
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 651
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16978aa764a3356c0800000000000000
+      internalID: -4155913956752852639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_4
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 651
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8373e9188acc0b530800000000000000
+      internalID: 3868817104012457784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_5
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 651
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87df8d3281713b4d0800000000000000
+      internalID: -3120124724389544584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_6
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 651
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94b80d556418abf0800000000000000
+      internalID: -312977748517145446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_7
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 553
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1240f0a2869a5da0800000000000000
+      internalID: -5955282069454044645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_8
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 553
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b63664f8bef00c0800000000000000
+      internalID: -4607204893182956783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_9
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 553
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824a8aa5f820ede90800000000000000
+      internalID: -6999153956162591704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_10
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 553
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7066c1bf46580ac80800000000000000
+      internalID: -8313498243369769465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_11
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 553
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031e8203856a7f580800000000000000
+      internalID: -8793376849722285776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_12
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 553
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb51ab53ba8f90e0800000000000000
+      internalID: -2260935984975619130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_13
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 455
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d46eaccedddf530800000000000000
+      internalID: 3890509662204087632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_14
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 455
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704c8ec72920c2d30800000000000000
+      internalID: 4407900963472983047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_15
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 454
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64074c3689c4ff10800000000000000
+      internalID: 2302686887867253868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_16
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 454
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57902f9a5b29ce180800000000000000
+      internalID: -9084725039375185547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_17
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 454
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009bb57b30aabc670800000000000000
+      internalID: 8560122449685625088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_18
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 455
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5143b83fb8b51a00800000000000000
+      internalID: 726690046319739228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 327
+        width: 369
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a7e26c6efda05e0800000000000000
+      internalID: -1942494106996540812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_20
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 340
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9253b8bb0376ecbf0800000000000000
+      internalID: -302190665984690903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_21
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 340
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72056e6cd0c46eb90800000000000000
+      internalID: -7212994131132002265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_22
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 340
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ce099a5681b6660800000000000000
+      internalID: 7380019239292300341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_23
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 340
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecca08d844ddabb70800000000000000
+      internalID: 8915681698834853070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_24
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 340
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fc3b41c7a6f17b0800000000000000
+      internalID: -5251361559334891708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_25
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 340
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3565d9c3416d2bea0800000000000000
+      internalID: -5858384782850959789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_26
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 243
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daad8454810428e70800000000000000
+      internalID: 9115919068737100461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_27
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 242
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee635f9d310411d0800000000000000
+      internalID: -3381076056070721818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_28
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 243
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d32f03276bc515f0800000000000000
+      internalID: -786498916076018735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_29
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 243
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2236ce2826f93eeb0800000000000000
+      internalID: -4691731141337783518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_30
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 243
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8436acb01df5190800000000000000
+      internalID: -7971422966852138799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_31
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 243
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381788399a09fbf30800000000000000
+      internalID: 4593549202940260739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_32
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 145
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7877b448fcc738100800000000000000
+      internalID: 109068046706636679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_33
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 145
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78b0674f3f7e0e10800000000000000
+      internalID: 2165808380568975486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_34
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 145
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654e7db741bd149d0800000000000000
+      internalID: -2791709412969421738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_35
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 145
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87b8622a19e59810800000000000000
+      internalID: 1771578326895867791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_36
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 145
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95724c50c686881d0800000000000000
+      internalID: -3348311509787465895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menueee_37
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 145
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdc3f5bc507dd490800000000000000
+      internalID: -7719890642751205895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
